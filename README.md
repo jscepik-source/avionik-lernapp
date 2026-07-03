@@ -6,7 +6,7 @@ Läuft komplett im Browser, offline, Fortschritt wird lokal gespeichert. Install
 
 ## Live
 Nach dem Aktivieren von GitHub Pages erreichbar unter:
-`https://<DEIN-USERNAME>.github.io/avionik-lernapp/`
+`https://jscepik-source.github.io/avionik-lernapp/`
 
 ## GitHub Pages aktivieren
 1. Dieses Repo auf GitHub anlegen und die Dateien hochladen.
