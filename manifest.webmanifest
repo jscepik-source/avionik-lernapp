@@ -1,12 +1,12 @@
 {
-  "name": "Avionik Lern-App",
+  "name": "Avionik Trainer",
   "short_name": "Avionik",
-  "description": "Klausurvorbereitung Avionik – 684 Single-Choice-Fragen mit Modi.",
+  "description": "Klausurvorbereitung Avionik – 684 Single-Choice-Fragen, 5 Lernmodi.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0f1b2d",
-  "theme_color": "#0f1b2d",
+  "background_color": "#edf3fa",
+  "theme_color": "#1f6fe0",
   "lang": "de",
   "icons": [
     {
