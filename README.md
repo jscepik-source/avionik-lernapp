@@ -1,7 +1,9 @@
 # ✈️ Avionik Trainer
 
-Freundliche Lern-App zur Klausurvorbereitung (HS RheinMain, Avionik SS26) – **684 Single-Choice-Fragen**
-mit den Modi **Üben · Karteikarten · Test · Lernen (Leitner) · Erfolge**.
+Freundliche Lern-App zur Klausurvorbereitung (HS RheinMain, Avionik SS26) – **688 Single-Choice-Fragen**
+mit den Modi **Üben · Karteikarten · Test · Lernen · Erfolge**.
+Unter jeder Frage lassen sich Fachbegriffe/Abkürzungen (IRS, FADEC, ADIRU …) per Klick nachschlagen.
+Der Lernmodus nutzt Spaced Repetition (fällige Karten zuerst), man kann jederzeit zur vorigen Frage zurück.
 Helles & dunkles Design, Streaks, motivierendes Feedback. Läuft offline, Fortschritt bleibt lokal gespeichert.
 
 ## Live

@@ -1,7 +1,7 @@
 {
   "name": "Avionik Trainer",
   "short_name": "Avionik",
-  "description": "Klausurvorbereitung Avionik – 684 Single-Choice-Fragen, 5 Lernmodi.",
+  "description": "Klausurvorbereitung Avionik – 688 Single-Choice-Fragen, 5 Lernmodi, Begriffs-Glossar & Spaced Repetition.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
