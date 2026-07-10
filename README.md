@@ -1,7 +1,7 @@
 # ✈️ Avionik Trainer
 
 Freundliche Lern-App zur Klausurvorbereitung mit **zwei getrennten Fragebögen** – **✈️ Avionik** und **🚁 UAV & Drohnen**
-(oben umschaltbar, je eigene Unterkategorien) – insgesamt **771 Single-Choice-Fragen**
+(oben umschaltbar, je eigene Unterkategorien) – insgesamt **1209 Single-Choice-Fragen**
 mit den Modi **Üben · Karteikarten · Test · Lernen · Erfolge**.
 Unter jeder Frage lassen sich Fachbegriffe/Abkürzungen (IRS, FADEC, ADIRU …) per Klick nachschlagen.
 Der Lernmodus nutzt Spaced Repetition (fällige Karten zuerst), man kann jederzeit zur vorigen Frage zurück.
