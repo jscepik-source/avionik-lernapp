@@ -1,7 +1,7 @@
 {
   "name": "Avionik Trainer",
   "short_name": "Avionik",
-  "description": "Klausur-Trainer – zwei Fragebögen (Avionik + UAV), 1382 Single-Choice-Fragen, 5 Lernmodi, Glossar & Spaced Repetition.",
+  "description": "Klausur-Trainer – zwei Fragebögen (Avionik + UAV), 1390 Single-Choice-Fragen, 5 Lernmodi, Glossar & Spaced Repetition.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
